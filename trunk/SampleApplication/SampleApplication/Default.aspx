@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Bamboo Sample Application" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SampleApplication._Default" %>
+﻿<%@ Page Title="Bamboo Sample Application v0.2" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="SampleApplication._Default" %>
 
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <section class="featured">
